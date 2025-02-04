@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PetabyteBrain/PythonSteganography">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80" style="border-radius: 50%;" />
   </a>
 
 <h3 align="center">Python Steganography</h3>
@@ -80,8 +80,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This Secure Steganography Tool allows users to hide encrypted messages inside images using various LSB (Least Significant Bit) encoding methods. It leverages RSA encryption to ensure only authorized recipients can retrieve the hidden data. The tool provides an intuitive interface to set up a key directory, generate public-private key pairs, and securely encode/decode messages within image files. It is designed for ease of use while maintaining strong security.
 
